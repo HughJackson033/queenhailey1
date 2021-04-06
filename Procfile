@@ -1,2 +1,2 @@
-worker: python reddit_bot50.py 
+worker: python queenhailey1.py 
 
