@@ -30,7 +30,7 @@ def check_author(author):
     return 0
 i = 50
 
-subreddits = ['pussy','onlyfansgirls101','DadWouldBeProud','GodPussy','Nudes','PetiteGoneWild']
+subreddits = ['DadWouldBeProud','GodPussy']
 while (i>0):
     for topic in subreddits:
         
